@@ -1,6 +1,6 @@
 
 
-<h1>AI-Powered Marketing Copy Generator 🪄</h1>
+<h1>AI-Powered Marketing Copy Generator </h1>
 
 <p>Struggling to write captivating marketing copy? This project uses the magic of AI (think friendly robot assistant) to craft attention-grabbing introductions for your company! ✨</p>
 
@@ -22,22 +22,22 @@
 <h4>Installation:</h4>
 
 <p>Open a terminal and navigate to your project directory (e.g., cd E:\Python Projects\AIDA Template).</p>
-<p class="code">pip install openai</p>
+<code>pip install openai</code>
 
 <h4>Running the Script:</h4>
 
-<p class="code">python index.py (replace index.py with your script's actual name)</p>
+<code>python index.py (replace index.py with your script's actual name)</code>
 
-<h4>Tell it About Yourself:</h4>
+<h3>Tell it About Yourself:</h3>
 
 <p>The script will ask for your company name and description. Be as descriptive as possible for the best results!</p>
 
-<h4>See the Magic Happen!</h4>
+<h3>See the Magic Happen!</h3>
 
 <p>The AI will use your info and the AIDA framework to generate some killer marketing copy. It'll be printed right in the terminal.</p>
 
 
-<h4>Example:</h4>
+<h3>Example:</h3>
 
 
 <b>Company:</b> FixIt Fast Tech Aid<br>
@@ -64,11 +64,11 @@ Don't let tech troubles hold you back! Contact FixIt Fast today for a free consu
 
 <br>
 
-<div class="disclaimer">
-  <h4>Disclaimer:</h4> ⚠️
 
+  <h3>Disclaimer: ⚠️</h3> 
+  <br>
   This project uses OpenAI's API, so you'll need an API key to run it. Check out OpenAI's documentation for more info on getting your key.
-</div>
+
 
 <h3>Contributing:</h3>
 
