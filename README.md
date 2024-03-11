@@ -16,35 +16,34 @@ Make sure you have Python 3.7+ installed (check by typing <code>python --version
 Snag an OpenAI API key from https://openai.com/.
 <br>
 <br>
-<b>Installation:<b>
-<br>
+<h4>Installation:<h4>
 <br>
 Open a terminal and navigate to your project directory (e.g., cd E:\Python Projects\AIDA Template).
 Type <code>pip install openai</code> to install the magic ingredient. ✨
 <br>
 <br>
-Running the Script:
-<br>
+<h4>Running the Script:</h4>
 <br>
 Activate your virtual environment (if you use one).
 <br>
 Type python index.py (replace index.py with your script's actual name) to unleash the AI wordsmith.
 <br>
 <br>
-<b>Tell it About Yourself:
+<h4>Tell it About Yourself:</h4>
 <br>
 The script will ask for your company name and description. Be as descriptive as possible for the best results!
 <br>
-See the Magic Happen!
+<b>See the Magic Happen!</b>
 <br>
 The AI will use your info and the AIDA framework to generate some killer marketing copy. It'll be printed right in the terminal.
 <br>
-Example:
+ <br>
+<b>Example:</b>
 <br><br>
-<b>Company:</b>: FixIt Fast Tech Aid<br>
-<b>Description:</b>:Your one-stop shop for tech woes! Our certified technicians are passionate about getting you back on track, quickly and efficiently.
+<h4>Company:</h4> FixIt Fast Tech Aid<br>
+<h4>Description:</h4> Your one-stop shop for tech woes! Our certified technicians are passionate about getting you back on track, quickly and efficiently.
 <br>
-<b>:Behold, the AI-Generated Copy!</b>:
+<b>Behold, the AI-Generated Copy!</b>
 <br><br>
 (Attention)
 
@@ -62,10 +61,10 @@ Why waste hours pulling your hair out? Our friendly team will fix things fast, e
 
 Don't let tech troubles hold you back! Contact FixIt Fast today for a free consultation. Visit our website at [website address] or call us at [phone number] to experience the FixIt Fast difference!
 
-<b>Disclaimer:</b>: ⚠️
+<h4>Disclaimer:</h4>: ⚠️
 
 This project uses OpenAI's API, so you'll need an API key to run it. Check out OpenAI's documentation for more info on getting your key.
 
-<h3>Contributing:</h3>
+<h4>Contributing:</h4>
 
 <b>We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.</b>
