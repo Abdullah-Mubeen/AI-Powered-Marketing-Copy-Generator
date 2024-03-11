@@ -1,4 +1,6 @@
 AI-Powered Marketing Copy Generator
+<br>
+<br>
 Struggling to write captivating marketing copy?   This project uses the magic of AI (think friendly robot assistant) to craft attention-grabbing introductions for your company!  ✨
 
 Here's the scoop:
