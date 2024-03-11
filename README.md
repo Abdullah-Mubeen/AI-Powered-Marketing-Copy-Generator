@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI-Powered Marketing Copy Generator</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      line-height: 1.5;
-    }
-    h1, h3 {
-      margin-bottom: 1rem;
-    }
-    .disclaimer {
-      font-size: smaller;
-      color: #888;
-    }
-    .code {
-      font-family: monospace;
-      background-color: #eee;
-      padding: 5px;
-      border-radius: 3px;
-    }
-  </style>
-</head>
-<body>
+
 
 <h1>AI-Powered Marketing Copy Generator 🪄</h1>
 
@@ -100,5 +74,3 @@ Don't let tech troubles hold you back! Contact FixIt Fast today for a free consu
 
 <p><b>We welcome contributions! Feel free to fork the repository, make changes, and submit a pull request.</b></p>
 
-</body>
-</html>
