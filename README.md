@@ -14,29 +14,33 @@ Before you blast off:
 
 Make sure you have Python 3.7+ installed (check by typing python --version in your terminal). Download it from https://www.python.org/downloads/.
 Snag an OpenAI API key from https://openai.com/.
+<br>
 Installation:
-
+<br>
 Open a terminal and navigate to your project directory (e.g., cd E:\Python Projects\AIDA Template).
-Type pip install openai to install the magic ingredient. ✨
+Type <code>pip install openai</code> to install the magic ingredient. ✨
+<br>
 Running the Script:
-
+<br>
 Activate your virtual environment (if you use one).
 Type python index.py (replace index.py with your script's actual name) to unleash the AI wordsmith.
+<br>
+<br>
 Tell it About Yourself:
-
+<br>
 The script will ask for your company name and description. Be as descriptive as possible for the best results!
-
+<br>
 See the Magic Happen!
-
+<br>
 The AI will use your info and the AIDA framework to generate some killer marketing copy. It'll be printed right in the terminal.
-
+<br>
 Example:
-
-Company: FixIt Fast Tech Aid
+<br><br>
+Company: FixIt Fast Tech Aid<br>
 Description: Your one-stop shop for tech woes! Our certified technicians are passionate about getting you back on track, quickly and efficiently.
-
+<br>
 Behold, the AI-Generated Copy!
-
+<br><br>
 (Attention)
 
 Feeling like you're wrestling with a tech gremlin? Don't sweat it! FixIt Fast Tech Aid is here to save the day.
