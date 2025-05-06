@@ -1,9 +1,3 @@
-## 📦 Getting Started for New Developers
-
-To help new contributors get up and running quickly, we’ve prepared a step-by-step guide.  
-👉 [View the setup instructions →](setup.md)
-
-
 <h1>AI-Powered Marketing Copy Generator </h1>
 
 <p>Struggling to write captivating marketing copy? This project uses the magic of AI (think friendly robot assistant) to craft attention-grabbing introductions for your company! ✨</p>
